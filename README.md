@@ -21,6 +21,7 @@ The purpose of this assignment is to convince investors to have a bike-sharing p
 - Python
   - Pandas
 - Tableau
+  - [link to dashboard](https://public.tableau.com/app/profile/juhi3090/viz/Challenge_NYC_Bikes/CheckoutTimesforUsers)
  
 <a name="#Results"></a>
 ## 2.0 Results
