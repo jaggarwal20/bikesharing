@@ -38,20 +38,25 @@ The number of bikes per gender (Male, Female, and Unknown) vs the total duration
 - 2.2 Trips
 
 The startime when bikes are checked out during the weekday. 
+
 <img src="https://github.com/jaggarwal20/bikesharing/blob/main/Resources/Trips_by_weekday.png" width="400">
 
 A heatmap of the start time by gender, displays that majority of the uers are male.  
+
 <img src="https://github.com/jaggarwal20/bikesharing/blob/main/Resources/Trips_by_Gender.png" width="400">
 
 A heatmap displaying the breakdown between days of the week, gender, and usertype.  Majoirty of the trips are by subscribers who are male on weekdays. 
+
 <img src="https://github.com/jaggarwal20/bikesharing/blob/main/Resources/Trips_Gender_Weekday.png" width="400">
 
 - 2.3 Locations
 
 The top starting locations with vaious bubble size based on the count.
+
 <img src="https://github.com/jaggarwal20/bikesharing/blob/main/Resources/Starting_locations.png" width="400">
 
 The top ending location for the trips taken by users. 
+
 <img src="https://github.com/jaggarwal20/bikesharing/blob/main/Resources/Ending_Locations.png" width="400">
 
 <a name="#Summary"></a>
