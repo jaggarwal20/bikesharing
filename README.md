@@ -5,7 +5,9 @@
   * 1.1 Purpose
   * 1.2 Tools
 - [2.0 Results](#Results)
- 
+  * Checkout Times
+  * Trips
+  * Locations
 - [3.0 Summary](#Summary)
 
 
@@ -22,7 +24,12 @@ The purpose of this assignment is to convince investors to have a bike-sharing p
  
 <a name="#Results"></a>
 ## 2.0 Results
+- Checkout Times
 
+
+- Trips
+
+- Locations
 
 <a name="#Summary"></a>
 ## 3.0 Summary
