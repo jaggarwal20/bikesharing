@@ -26,10 +26,24 @@ The purpose of this assignment is to convince investors to have a bike-sharing p
 ## 2.0 Results
 - Checkout Times
 
+<img src="https://github.com/jaggarwal20/bikesharing/blob/master/resources/Checkout_duration.png" width="400">
+
+<img src="https://github.com/jaggarwal20/bikesharing/blob/master/resources/Checkout_Duration_by_Gender.png" width="400">
+
 
 - Trips
 
+<img src="https://github.com/jaggarwal20/bikesharing/blob/master/resources/Trips_by_Gender.png" width="400">
+
+<img src="https://github.com/jaggarwal20/bikesharing/blob/master/resources/Trips_by_weekday.png" width="400">
+
+<img src="https://github.com/jaggarwal20/bikesharing/blob/master/resources/Trips_Gender_Weekday.png" width="400">
+
 - Locations
+
+<img src="https://github.com/jaggarwal20/bikesharing/blob/master/resources/Starting_locations.png" width="400">
+
+<img src="https://github.com/jaggarwal20/bikesharing/blob/master/resources/Ending_Locations.png" width="400">
 
 <a name="#Summary"></a>
 ## 3.0 Summary
